@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TypesOfMakets</string>
+    <string name="header">Thanks for choosing our awesome blend tea. How do you want it serving?
+    </string>
+    <string name="temperature">Temperature:</string>
+    <string name="button_hot">HOT</string>
+    <string name="milk_cb">Milk</string>
+    <string name="sugar_cb">Sugar</string>
+    <string name="lemon_cb">Lemon</string>
+</resources>
